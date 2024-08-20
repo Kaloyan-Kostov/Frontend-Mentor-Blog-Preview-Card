@@ -25,7 +25,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/Kaloyan-Kostov/Frontend-Mentor-Blog-Preview-Card](https://kaloyan-kostov.github.io/Frontend-Mentor-Blog-Preview-Card/)
+- Solution URL: [https://github.com/Kaloyan-Kostov/Frontend-Mentor-Blog-Preview-Card](https://kaloyan-kostov.github.io/Frontend-Mentor-Blog-Preview-Card)
 
 ## My process
 
